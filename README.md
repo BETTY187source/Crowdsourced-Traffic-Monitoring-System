@@ -6,4 +6,4 @@ A crowdsourced traffic monitoring system built with Flask (Python) and React Nat
 - **Crowdsourced Traffic Data**: Real-time data from mobile users.
 - **Traffic Visualization**: Interactive map showing live traffic condition.
 - **Route Optimization**: AI-powered suggestions for the fastest route.
-- **Incident Alerts**: Real-time alerts for accidents, road cl, and more.
+- **Incident Alerts**: Real-time alerts for accidents, road clos, and more.
