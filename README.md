@@ -4,6 +4,6 @@ A crowdsourced traffic monitoring system built with Flask (Python) and React Nat
 
 ## Features:
 - **Crowdsourced Traffic Data**: Real-time data from mobile users.
-- **Traffic Visua**: Interactive map showing live traffic condition.
+- **Traffic Visuali**: Interactive map showing live traffic condition.
 - **Route Optimization**: AI-powered suggestions for the fastest route.
 - **Incident Alerts**: Real-time alerts for accidents, road closure, and more.
